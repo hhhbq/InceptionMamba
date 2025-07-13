@@ -11,5 +11,6 @@ pip install triton==2.0.0
 pip install causal_conv1d==1.0.0  # causal_conv1d-1.0.0+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 pip install mamba_ssm==1.0.1  # mmamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp38-cp38-linux_x86_64.whl
 pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
+```
 # Acknowledgments
 We thank the authors of VMamba, Swin-UNet and VM-UNet MedMamba for their open-source codes.
