@@ -1,6 +1,6 @@
-# InceptionMamba attaining lightweight and accuracy in medical image classification task reveal low-frequency preference of Mamba model
+### InceptionMamba attaining lightweight and accuracy in medical image classification task reveal low-frequency preference of Mamba model
 This is the official code repository for "InceptionMamba attaining lightweight and accuracy in medical image classification task reveal low-frequency preference of Mamba model"
-# Install
+### Install
 ```bash
 pip install torch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
 pip install packaging
