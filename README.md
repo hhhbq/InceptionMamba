@@ -13,4 +13,4 @@ pip install mamba_ssm==1.0.1  # mmamba_ssm-1.0.1+cu118torch1.13cxx11abiFALSE-cp3
 pip install scikit-learn matplotlib thop h5py SimpleITK scikit-image medpy yacs
 ```
 # Acknowledgments
-We thank the authors of VMamba, Swin-UNet and VM-UNet MedMamba for their open-source codes.
+We thank the authors of VMamba, Swin-UNet, VM-UNet and MedMamba for their open-source codes.
